@@ -6,3 +6,14 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+
+.Card {
+  border: 1px solid gray;
+  width: 60%;
+  background: rgba(212, 212, 212, 0.596);
+  margin: 1rem auto;
+}
+
+.Card-Title {
+  font-weight: 600;
+}
